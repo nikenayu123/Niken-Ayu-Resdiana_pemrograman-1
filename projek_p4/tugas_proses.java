@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 package projek_p4;
+=======
+package projek_4;
+>>>>>>> 194b470518f78efa308801f2dd299c115dbec89d
 import java.util.Scanner;
 
 public class tugas_proses {
